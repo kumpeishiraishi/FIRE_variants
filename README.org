@@ -1,7 +1,7 @@
 * Some variants of the FIRE algorithm
-The Fast Inertial Relaxation Engine (FIRE) algorithm is a popular choice of energy minimization in the field of atomistic simulations.
-It is first proposed in 2006, and some improvements and variants are proposed recently.
-This repository contains my implementations of those FIRE algorithms to the system of binary Lennard-Jones particles.
+The Fast Inertial Relaxation Engine (FIRE) algorithm is a popular choice for energy minimization in the field of atomistic simulations.
+It was first proposed in 2006, and several improvements and variants have been proposed recently.
+This repository contains my implementations of these FIRE algorithms for the system of binary Lennard-Jones particles.
 
 ** Requirements
 - AVX2-compatible CPU
@@ -11,11 +11,11 @@ MIT License
 
 ** References
 - Erik Bitzek, Pekka Koskinen, Franz Gähler, Michael Moseler, and Peter Gumbsch\\
-  ``Structural Relaxation Made Simple''\\
+  ``Structural Relaxation Made Simple''
   [[https://doi.org/10.1103/PhysRevLett.97.170201][Physical Review Letters *97*, 170201 (2006)]]
 
 - Julien Guénolé, Wolfram G. Nöhring, Aviral Vaid, Frédéric Houllé, Zhuocheng Xie, Aruna Prakash, and Erik Bitzek\\
-  ``Assessment and optimization of the fast inertial relaxation engine (FIRE) for energy minimization in atomistic simulations and its implementation in LAMMPS''\\
+  ``Assessment and optimization of the fast inertial relaxation engine (FIRE) for energy minimization in atomistic simulations and its implementation in LAMMPS''
   [[https://doi.org/10.1016/j.commatsci.2020.109584][Computational Materials Science *175*, 109584 (2020)]]
 
 - Sebastián Echeverri Restrepo and Predrag Andric\\
