@@ -1,6 +1,6 @@
-* Some variants of the FIRE algorithm
+* Some improvements of the FIRE algorithm
 The Fast Inertial Relaxation Engine (FIRE) algorithm is a popular choice for energy minimization in the field of atomistic simulations.
-It was first proposed in 2006, and several improvements and variants have been proposed recently.
+It was first proposed in 2006, and several improvements have been proposed recently.
 This repository contains my implementations of these FIRE algorithms for the system of binary Lennard-Jones particles.
 
 ** Requirements
